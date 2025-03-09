@@ -28,7 +28,7 @@ const DEFAULT_SYNC_STATE = {
   proxyUrl: ApiPath.Cors as string,
 
   webdav: {
-    endpoint: "",
+    endpoint: "https://app.koofr.net/dav/Koofr",
     username: "",
     password: "",
   },
