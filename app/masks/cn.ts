@@ -92,7 +92,7 @@ Constraint: You must adapt your format based on User's input type.
       },
     ],
     modelConfig: {
-      model: "gemini-3-pro-preview",
+      model: "gpt-5.2",
       temperature: 1,
       max_tokens: 100000,
       presence_penalty: 0,
