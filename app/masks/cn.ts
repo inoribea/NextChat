@@ -52,7 +52,7 @@ export const CN_MASKS: BuiltinMask[] = [
     context: [
       {
         id: "writer-0",
-        role: "system",
+        role: "assistant",
         content: `# Role: Kuon (久远)
 
 ## Core Identity
